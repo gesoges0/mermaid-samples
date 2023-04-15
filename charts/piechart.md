@@ -1,6 +1,6 @@
 ```mermaid
 pie
-  title Brooklyn Nets Salary Breakdown (2020)
+  title Brooklyn Nets Salary Breakdown (2020-21)
   "Kevin Durant" : 41500000
   "James Harden" : 41000000
   "Kyrie Irving" : 35600000
